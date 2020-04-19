@@ -1,0 +1,120 @@
+body {
+
+    background-color: #9d0b0b;
+}
+h1{
+    font-size: 5rem;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+
+.title-text {
+  font-size: 3rem;
+  padding: 20px;
+  color: #9d0b0b;
+  text-align: center;
+}
+
+.black-section {
+  background-color: #000;
+}
+.red-section {
+  background-color: #9d0b0b;
+  text-align: center;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.logo-text {
+  color: red;
+  font-size: 80px;
+  margin: 70px 0;
+}
+
+.logo-image {
+  width: 100%;
+  position: relative;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+}
+
+.audi-image {
+  width: 70%;
+  border-radius: 20%;
+  padding: 20px;
+  text-align: center;
+  margin-left: 50px;
+}
+/* About Section */
+
+.about-container{
+  color: #000;
+  text-align: center;
+  padding: 2rem;
+
+}
+.small-container{
+  padding: 2rem;
+
+
+}
+.large-container{
+  padding: 2rem;
+  background-color: #000;
+  color:  #9d0b0b;
+}
+.about-image{
+  width: 70%;
+  padding: 2rem;
+  border-radius: 30%
+}
+/* Testimonial Section */
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  color:  #9d0b0b;
+}
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 20%;
+  margin: 20px;
+
+}
+
+
+
+/* Footer Section */
+
+
+.social-icon {
+  margin: 20px 10px;
+  color: #000;
+}
+
+/* Contact Page */
+.contact{
+  background-color: #9d0b0b;
+  text-align:center;
+  padding: 5rem;
+  font-size: 2rem;
+
+}
